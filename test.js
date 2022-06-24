@@ -1,0 +1,8 @@
+let carName = "bmw";
+function myFunction() {
+    let carName = "Volvo"; 
+    console.log(carName);   
+  }
+myFunction();
+
+console.log(carName);
